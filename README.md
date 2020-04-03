@@ -1,2 +1,1 @@
-# frontEndStaticWebsite
-Front end static website
+# serverless-webapp
